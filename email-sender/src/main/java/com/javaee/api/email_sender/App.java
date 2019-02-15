@@ -10,7 +10,7 @@ public class App
     {
     	final String fromEmail = "kansaonp@gmail.com";
 		final String password = "******"; /** INSERIR SENHA AQUI*/
-		final String toEmail = "kansaonp@gmail.com"; 
+		final String toEmail = "****"; /** INSERIR EMAIL AQUI*/
 		
 		System.out.println("Initializing email send");
 		
